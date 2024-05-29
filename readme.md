@@ -17,3 +17,8 @@
 - Separe la logica de calcular la potencia utilizando metodos
 
 👉🏼 <b> OrdenamientoBubbleSort: </b> Implemente un algoritmo de ordenamiento con el método Bubble Sort para que ordene un arreglo de longitud N en orden descendente. 
+
+
+<b> ✅ Dentro de la carpeta Practica:</b>
+
+👉🏼 <b> Ejercicios1Test: </b>s Ejercicios a manera de práctica para primer evaluación
