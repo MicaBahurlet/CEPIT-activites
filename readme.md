@@ -21,4 +21,4 @@
 
 <b> ✅ Dentro de la carpeta Practica:</b>
 
-👉🏼 <b> Ejercicios1Test: </b>s Ejercicios a manera de práctica para primer evaluación
+👉🏼 <b> Ejercicios1Test: </b>s Ejercicios a manera de práctica para primer evaluación.
