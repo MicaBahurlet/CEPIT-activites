@@ -1,7 +1,4 @@
 
-// Implementa una función que tome dos números como parámetros y devuelva el número más pequeño.
-// Escribe una función que tome un arreglo de números como parámetro y lo ordene de forma descendente.
-
 //------ Escribe una función que tome dos números como parámetros y devuelva la suma de ambos.
 function sumar (num1: number, num2: number): number {
     return num1 + num2;
@@ -117,3 +114,32 @@ let elemento: number = 3;
 //guardo en la variable el numero de ocurrencias del elemento en el array
 let resultadoOcurrencias: number = ocurrencias(elemento, array);
 console.log(resultadoOcurrencias);
+
+
+// ------ Implementa una función que tome dos números como parámetros y devuelva el número más pequeño.
+
+function elMasPequeño(numero1: number, numero2: number): number {
+    if (numero1 < numero2) {
+        return num1;
+    } else {
+        return num2;
+    }
+}
+
+let numero1: number = 5;
+let numero2: number = 10;
+
+let masPequeno: number = elMasPequeño(num1, num2);
+console.log(masPequeno);
+
+
+// ------ Escribe una función que tome un arreglo de números como parámetro y lo ordene de forma descendente.
+
+function ordenarDescendente(numeros: number[]): number[] {
+    //usando el sort de JS para ordenar el array
+    return numeros.sort((a, b) => b - a);
+}
+
+let arrayNumeros: number[] = [1, 2, 3, 4, 5];
+let arrayOrdenado: number[] = ordenarDescendente(arrayNumeros);
+console.log(arrayOrdenado);
