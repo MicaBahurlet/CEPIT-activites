@@ -143,3 +143,35 @@ function ordenarDescendente(numeros: number[]): number[] {
 let arrayNumeros: number[] = [1, 2, 3, 4, 5];
 let arrayOrdenado: number[] = ordenarDescendente(arrayNumeros);
 console.log(arrayOrdenado);
+
+
+// ------ Ejercicio del parcialito
+
+
+// creo el string
+let StringEjercicio: string = "AEOAEOAEOAEOAEOAEOAEOAEOAEO";
+
+function contarAEyO(string: string): number[] {
+    // como quiero contar esas letras, inicio los contadores en 0 para in incrementadndo
+    let contadorA: number = 0;
+    let contadorE: number = 0;
+    let contadorO: number = 0;
+
+    // for para recorrer el string y contar las letras A, E y O
+    for (let i = 0; i < string.length; i++) {
+        if (string[i] === 'A') {
+            contadorA++;
+        } else if (string[i] === 'E') {
+            contadorE++;
+        } else if (string[i] === 'O') {
+            contadorO++;
+        }
+    }
+
+    // quiero retornar los contadores con las iteraciones correspondientes
+    return [contadorA, contadorE, contadorO];
+}
+
+
+// muestro por consola los contadores
+console.log(contarAEyO(StringEjercicio));
