@@ -18,6 +18,15 @@
 
 👉🏼 <b> OrdenamientoBubbleSort: </b> Implemente un algoritmo de ordenamiento con el método Bubble Sort para que ordene un arreglo de longitud N en orden descendente. 
 
+👉🏼 <b> EjercicioPersistencia: </b> Guarda la información de los siguientes arrays:
+const precios: number[] = [525, 3500, 400, 1999];
+const productos: string[] = ["Leche", "Galletitas", "Harina",
+"Queso"];
+
+en un archivo “precios.txt” y “productos.txt”
+respectivamente.Luego recupera la información en forma de
+array nuevamente y mostrala por consola.
+
 
 <b> ✅ Dentro de la carpeta Practica:</b>
 
