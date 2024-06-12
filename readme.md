@@ -16,9 +16,9 @@
 - Recuerde que el resultado de un numeroe levado a 0 es 1
 - Separe la logica de calcular la potencia utilizando metodos
 
-👉🏼 <b> OrdenamientoBubbleSort: </b> Implemente un algoritmo de ordenamiento con el método Bubble Sort para que ordene un arreglo de longitud N en orden descendente. 
+👉🏼 <b> Trabajo N4 - OrdenamientoBubbleSort: </b> Implemente un algoritmo de ordenamiento con el método Bubble Sort para que ordene un arreglo de longitud N en orden descendente. 
 
-👉🏼 <b> EjercicioPersistencia: </b> Guarda la información de los siguientes arrays:
+👉🏼 <b> Trabajo N5 - EjercicioPersistencia: </b> Guarda la información de los siguientes arrays:
 const precios: number[] = [525, 3500, 400, 1999];
 const productos: string[] = ["Leche", "Galletitas", "Harina",
 "Queso"];
@@ -27,7 +27,15 @@ en un archivo “precios.txt” y “productos.txt”
 respectivamente.Luego recupera la información en forma de
 array nuevamente y mostrala por consola.
 
+Éste ejercicio me costó mucho, así que documento los pasos:
+
+- npm init -y
+- npm install typescript @types/node --save-dev
+- npx tsc --init (se crea un tsconfig.json al cual dejé como se creó)
+- npx tsc  (para compilar a js)
+- node Ejercicio.js 
+
 
 <b> ✅ Dentro de la carpeta Practica:</b>
 
-👉🏼 <b> Ejercicios1Test: </b>s Ejercicios a manera de práctica para primer evaluación.
+👉🏼 <b> Ejercicios1Test: </b> Ejercicios a manera de práctica para primer evaluación.
