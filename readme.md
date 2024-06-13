@@ -29,11 +29,11 @@ array nuevamente y mostrala por consola.
 
 Éste ejercicio me costó mucho, así que documento los pasos:
 
-- npm init -y
+- npm init -y //instalo en entorno correspondiente
 - npm install typescript @types/node --save-dev
-- npx tsc --init (se crea un tsconfig.json al cual dejé como se creó)
-- npx tsc  (para compilar a js)
-- node Ejercicio.js 
+- npx tsc --init // se crea un tsconfig.json al cual dejé como se creó
+- npx tsc  //para compilar a js
+- node Ejercicio.js  // para mostrar por consola integrada
 
 
 <b> ✅ Dentro de la carpeta Practica:</b>
