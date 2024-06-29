@@ -36,6 +36,23 @@ array nuevamente y mostrala por consola.
 - node Ejercicio.js  // para mostrar por consola integrada
 
 
+
+👉🏼 <b> Trabajo N6- ModelLayout: </b> Replicar un layout compartido como modelo/guia. En mi caso utilicé una extensión para darle exactamente el mismo color del mocelo compartido a cada box. Decidí realizar todo en un mismo archivo para simplificar el trabajo.
+
+👉🏼 <b> Trabajo N7- Pagina anidada: </b> Realicen una página:
+
+•Elementos anidados.
+•Utilizar selectores anidados para dar estilos.
+•Probar colisiones y ver qué estilo se impone. (Esto les dije que es mas para ellos no tienen que mostrar nada en particular en el ejercicio)
+
+Diseñe link/boton que debe:
+•Cambiar levemente su color al pasar por arriba con el cursor
+•Cambiar de color al ser visitado.
+
+
+
+
+
 <b> ✅ Dentro de la carpeta Practica:</b>
 
 👉🏼 <b> Ejercicios1Test: </b> Ejercicios a manera de práctica para primer evaluación.
