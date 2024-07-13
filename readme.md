@@ -39,7 +39,8 @@ array nuevamente y mostrala por consola.
 
 👉🏼 <b> Trabajo N6- ModelLayout: </b> Replicar un layout compartido como modelo/guia. En mi caso utilicé una extensión para darle exactamente el mismo color del mocelo compartido a cada box. Decidí realizar todo en un mismo archivo para simplificar el trabajo.
 
-👉🏼 <b> Trabajo N7- Pagina anidada: </b> Realicen una página:
+👉🏼 <b> Trabajo N7- Pagina anidada: </b> 
+Realicen una página:
 
 •Elementos anidados.
 •Utilizar selectores anidados para dar estilos.
@@ -49,7 +50,20 @@ Diseñe link/boton que debe:
 •Cambiar levemente su color al pasar por arriba con el cursor
 •Cambiar de color al ser visitado.
 
+👉🏼 <b> Trabajo N8- Divs con movimiento: </b> 
 
+Consigna: Realizar una página con 2 divs (en una fila).
+Cada div debe tener un botón (mostrar/ocultar)
+Que al hacer click debe ocultar al div que lo 
+contiene y mostrar el otro. Aclaración, los divs no deben moverse. 
+Deben lograr ese efecto usando JS.
+Para eso es necesario que usen lo visto en clase. 
+Hay varias formas de ocultar un div, pero en este 
+caso (y como ayuda) deben usar una propiedad de 
+CSS que es “visibility”.
+(ambos divs deben mostrarse u ocultarse al hacer 
+click en el botón, nunca deben verse los 2 div al 
+mismo tiempo)
 
 
 

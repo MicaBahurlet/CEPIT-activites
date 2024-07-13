@@ -1,9 +1,10 @@
-{
-    "compilerOptions": {
-        "target": "ES6",
-        "module": "commonjs",
-        "moduleResolution": "node",
-        "allowJs": true
-    },
-    "exclude": ["node_modules"]
-}
+// {
+//     "compilerOptions": {
+//         "target": "ES6",
+//         "module": "commonjs",
+//         "moduleResolution": "node",
+//         "allowJs": true
+
+//     },
+//     "exclude": ["node_modules", "scripts.js"]
+// }
