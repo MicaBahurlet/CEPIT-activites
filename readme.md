@@ -1,12 +1,7 @@
 <h1> 	&#128187;  Entregas CEPIT- Full Stack 	&#128218;</h1>
 <hr>
 
-Rerpositorio completo de entregas + práctica. 
+Repository complete of Full Stack career in CEPIT. 
 
+Divided in first and second quarter, besides constains practice folder and integrative works. 
 
-
-
-
-<b> ✅ Dentro de la carpeta Practica:</b>
-
-👉🏼 <b> Ejercicios1Test: </b> Ejercicios a manera de práctica para primer evaluación.
